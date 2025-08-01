@@ -1,42 +1,36 @@
 <!--
 **MaartenAfschrift/MaartenAfschrift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
-### 👋 About Me
+### BIO
 
-I'm **Maarten Afschrift**, currently an assistant professor at **VU Amsterdam**.
+Maarten Afschrift, Now assistant professor at VU Amsterdam
 
-📧 m.a.afschrift@vu.nl  
-🔬 [Google Scholar](https://scholar.google.com/citations?user=FtnuwWQAAAAJ&hl=en)  
-🧾 [ORCID](https://orcid.org/0000-0002-9120-7925)
+- m.a.afschrift@vu.nl
+- [Google Scholar](https://scholar.google.com/citations?user=FtnuwWQAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0002-9120-7925)
 
-I'm passionate about understanding the principles of **human movement**, especially how we interact with **assistive devices**.
+I am passionate about understanding the principles of human movement and how humans interact with assistive devices in particular. 
 
----
+### Main repositories
 
-### 🔧 Main Repositories
+- [Presentations](https://github.com/MaartenAfschrift/Presentations) pdfs of my talks at international conferences
+- [osim python tools](https://github.com/MaartenAfschrift/osim_python_tools) set of general osim related tools I use in several projects (I typically include this as a submodule)
+- [PredSim gait conditions](https://github.com/MaartenAfschrift/PredSim_gait_conditions) software to run all simulations to benchmark predictive simulation workflow [Preprint](https://doi.org/10.1101/2024.12.12.628124)
+- [PredSim](https://github.com/KULeuvenNeuromechanics/PredSim) predictive simulations of human movement using optimal control
 
-- [**Presentations**](https://github.com/MaartenAfschrift/Presentations)  
-  PDFs of my talks at international conferences.
+### Science communication projects
 
-- [**osim_python_tools**](https://github.com/MaartenAfschrift/osim_python_tools)  
-  A collection of general-purpose OpenSim-related tools used across several projects. I often include this as a submodule.
-
-- [**PredSim_gait_conditions**](https://github.com/MaartenAfschrift/PredSim_gait_conditions)  
-  Software to run simulations benchmarking the predictive simulation workflow.  
-  📄 [Preprint](https://doi.org/10.1101/2024.12.12.628124)
-
-- [**PredSim**](https://github.com/KULeuvenNeuromechanics/PredSim)  
-  Predictive simulations of human movement using optimal control.
-
----
-
-### 🧠 Science Communication Projects
-
-- [**Runner2D**](https://github.com/MaartenAfschrift/Runner2D)  
-  A simple running model used for science communication during the *Day of Science* ("Dag van de Wetenschap").
-
-- [**GUI_Cycling**](https://github.com/MaartenAfschrift/GUI_Cycling)  
-  A simple cycling model designed to motivate and inspire bachelor students.
-
----
+- [Runner 2D](https://github.com/MaartenAfschrift/Runner2D) Simple running model used for science communications for "Day of Science" (dag van de wetenschap)  
+- [Cycling](https://github.com/MaartenAfschrift/GUI_Cycling) Simple cycling model used to motivate/inspire bachelor students
