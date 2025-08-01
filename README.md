@@ -27,3 +27,12 @@ I am passionate about understanding the principles of human movement and how hum
 
 
 - [Presentations](https://github.com/MaartenAfschrift/Presentations) pdfs of my talks at international conferences
+- [osim python tools] (https://github.com/MaartenAfschrift/osim_python_tools) set of general osim related tools I use in several projects (I typically include this as a submodule)
+- [PredSim] (https://github.com/KULeuvenNeuromechanics/PredSim) predictive simulations of human movement using optimal control
+
+
+
+### Science communication projects
+
+- [Runner 2D](https://github.com/MaartenAfschrift/Runner2D) Simple running model used for science communications for "Day of Science" (dag van de wetenschap)  
+- [Cycling] (https://github.com/MaartenAfschrift/GUI_Cycling) Simple cycling model used to motivate/inspire bachelor students
