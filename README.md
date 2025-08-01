@@ -33,4 +33,4 @@ I am passionate about understanding the principles of human movement and how hum
 ### Science communication projects
 
 - [Runner 2D](https://github.com/MaartenAfschrift/Runner2D) Simple running model used for science communications for "Day of Science" (dag van de wetenschap)  
-- [Cycling](https://github.com/MaartenAfschrift/GUI_Cycling) Simple cycling model used to motivate/inspire bachelor students
+- [Cycling](https://github.com/MaartenAfschrift/GUI_Cycling) Simple cycling model used to motivate/inspire bachelor studen
