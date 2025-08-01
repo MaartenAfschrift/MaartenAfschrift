@@ -25,6 +25,5 @@ I am passionate about understanding the principles of human movement and how hum
 
 ### Main repositories
 
-<!--
+
 - [Presentations](https://github.com/MaartenAfschrift/Presentations) pdfs of my talks at international conferences
--->
