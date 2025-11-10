@@ -23,7 +23,7 @@ I'm passionate about understanding the principles of **human movement**, especia
   A collection of OpenSim-related tools used across several projects. I often include this as a submodule.
 
 - [**PredSim_gait_conditions**](https://github.com/MaartenAfschrift/PredSim_gait_conditions)  
-  Software to run simulations benchmarking the predictive simulation workflow.  
+  Software to run simulations benchmarking the predictive simulation workflow.  This is now integrated into [PredSim](https://github.com/KULeuvenNeuromechanics/PredSim/tree/benchmarking)
   📄 [Preprint](https://doi.org/10.1101/2024.12.12.628124)
   
 - 📄 [**Balance assisting controller**](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01205-9) several repositories data are related to the design and test of a balance supporting controller for an ankle-foot exoskeleton: [data](https://doi.org/10.17605/OSF.IO/EKRQJ), [control parameter estimation](https://github.com/MaartenAfschrift/GeyerAnkle_ParamEstimation.git), [real-time controller](https://github.com/MaartenAfschrift/GeyerAnkle_Simulink) [data analysis](https://github.com/MaartenAfschrift/NMC_Ankle_PostProcessing)
